@@ -1,3 +1,3 @@
 # ROBOTRONICS-AIS-SAKET
-WE HAVE USED ADALO - APP BUILDER TO MAKE OUR APP
-ADALO-APP BUILDER DOESN'T USE ANY PROGRAMMING LANGUAGE TO MAKE THE APP
+We have used Adalo - App Builder to make our app 
+Adalo - App Builder doesn't  use any programming language to make the app
